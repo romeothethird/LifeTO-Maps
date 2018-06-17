@@ -8,7 +8,7 @@ For players who are experiencing "Map Move Failed" error when entering certain m
 
 ### How to use it?
 
-Download the map that's causing you an error. And place it inside "data/map" of your LifeTO installation.
+Download the map that's causing you an error. And extract it inside "data/map" of your LifeTO installation.
 
 ### Support
 
