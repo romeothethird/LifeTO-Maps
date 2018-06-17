@@ -1,0 +1,324 @@
+<CAKEWAPPER CreamCount='3' NoriFileName='data\map\map_pa04.nri' CakeCount='2'>
+	<Version>100</Version>
+	<CAKE Name='event_garden_light' SubCreamCount='2'>
+		<CAKEPLAY Time='0' Type='PlayLoop'></CAKEPLAY>
+		<SUBCREAM Name='event_garden_light' Time='0'>
+			<SubCreamName>event_garden_light</SubCreamName>
+			<SubCreamSortType>Map_Over</SubCreamSortType>
+		</SUBCREAM>
+		<SUBCREAM Name='event_garden_light2' Time='0'>
+			<SubCreamName>event_garden_light2</SubCreamName>
+			<SubCreamSortType>Map_Over</SubCreamSortType>
+		</SUBCREAM>
+	</CAKE>
+	<CAKE Name='event_garden_cho' SubCreamCount='1'>
+		<CAKEPLAY Time='0' Type='PlayLoop'></CAKEPLAY>
+		<SUBCREAM Name='event_garden_cho' Time='0'>
+			<SubCreamName>event_garden_cho</SubCreamName>
+			<SubCreamSortType>Map_Over</SubCreamSortType>
+		</SUBCREAM>
+	</CAKE>
+	<CREAM Name='event_garden_light'>
+		<Name></Name>
+		<Category></Category>
+		<MaxCount>4</MaxCount>
+		<IsLoop>1</IsLoop>
+		<IsLink>1</IsLink>
+		<IsZAlign>1</IsZAlign>
+		<IsSineAlpha>1</IsSineAlpha>
+		<IsStartSizePLPUseOne>1</IsStartSizePLPUseOne>
+		<IsEndSizePLPUseOne>1</IsEndSizePLPUseOne>
+		<TextureKind>0</TextureKind>
+		<TextureName>event</TextureName>
+		<CreamBlendMode>ADD</CreamBlendMode>
+		<AnimationType>0</AnimationType>
+		<Pattern></Pattern>
+		<PatternArguments>0 0 0 0 </PatternArguments>
+		<EmitterPosition>0 0 0</EmitterPosition>
+		<EmitterRadius>0 0 0</EmitterRadius>
+		<Destination>0 0 0</Destination>
+		<DestinationRadius>0 0 0</DestinationRadius>
+		<Gravity>0 0 0</Gravity>
+		<GravityBallPosition>0 0 0</GravityBallPosition>
+		<MainStartColor>255 255 255</MainStartColor>
+		<SubStartColor>255 255 255</SubStartColor>
+		<MainEndColor>255 255 255</MainEndColor>
+		<SubEndColor>255 255 255</SubEndColor>
+		<MainStartAlpha>0</MainStartAlpha>
+		<SubStartAlpha>0</SubStartAlpha>
+		<MainEndAlpha>48</MainEndAlpha>
+		<SubEndAlpha>48</SubEndAlpha>
+		<EmissionRatePermittedLimitPercent>0</EmissionRatePermittedLimitPercent>
+		<VelocityPermittedLimitPercent>0</VelocityPermittedLimitPercent>
+		<TimePermittedLimitPercent>0</TimePermittedLimitPercent>
+		<AirResistancePermittedLimitPercent>0</AirResistancePermittedLimitPercent>
+		<AnimationSpeedPermittedLimitPercent>0</AnimationSpeedPermittedLimitPercent>
+		<EmitterDispersion>0</EmitterDispersion>
+		<EmitterBalance>-0.12</EmitterBalance>
+		<DestinationDispersion>0</DestinationDispersion>
+		<DestinationBalance>-0.12</DestinationBalance>
+		<DestinationRandomness>0</DestinationRandomness>
+		<StartColorDispersion>0</StartColorDispersion>
+		<StartColorBalance>-0.12</StartColorBalance>
+		<EndColorDispersion>0</EndColorDispersion>
+		<EndColorBalance>-0.12</EndColorBalance>
+		<StartAlphaDispersion>1</StartAlphaDispersion>
+		<StartAlphaBalance>-1</StartAlphaBalance>
+		<EndAlphaDispersion>0</EndAlphaDispersion>
+		<EndAlphaBalance>-1</EndAlphaBalance>
+		<MiddleAlphaTime>0</MiddleAlphaTime>
+		<MiddleAlphaAlpha>0</MiddleAlphaAlpha>
+		<GravityResistance>0</GravityResistance>
+		<GravityDispersion>0</GravityDispersion>
+		<GravityBalance>-0.12</GravityBalance>
+		<GravityBallPower>0</GravityBallPower>
+		<GravityBallResistance>0</GravityBallResistance>
+		<GravityBallDispersion>0</GravityBallDispersion>
+		<GravityBallBalance>-0.12</GravityBallBalance>
+		<EmissionRate>1</EmissionRate>
+		<EmissionDispersion>0</EmissionDispersion>
+		<EmissionBalance>-0.12</EmissionBalance>
+		<StartSize>0</StartSize>
+		<StartSizeX>900</StartSizeX>
+		<StartSizeY>900</StartSizeY>
+		<StartSizeDispersion>0</StartSizeDispersion>
+		<StartSizeBalance>-0.12</StartSizeBalance>
+		<StartSizePermittedLimitPercent>0</StartSizePermittedLimitPercent>
+		<StartSizePermittedLimitPercentX>0</StartSizePermittedLimitPercentX>
+		<StartSizePermittedLimitPercentY>0</StartSizePermittedLimitPercentY>
+		<EndSize>0</EndSize>
+		<EndSizeX>900</EndSizeX>
+		<EndSizeY>900</EndSizeY>
+		<EndSizeDispersion>0</EndSizeDispersion>
+		<EndSizeBalance>-0.12</EndSizeBalance>
+		<EndSizePermittedLimitPercent>0</EndSizePermittedLimitPercent>
+		<EndSizePermittedLimitPercentX>0</EndSizePermittedLimitPercentX>
+		<EndSizePermittedLimitPercentY>0</EndSizePermittedLimitPercentY>
+		<Velocity>0</Velocity>
+		<VelocityDispersion>0</VelocityDispersion>
+		<VelocityBalance>-0.12</VelocityBalance>
+		<MainAngleVelocity>-3</MainAngleVelocity>
+		<SubAngleVelocity>3</SubAngleVelocity>
+		<AngleVelocityDispersion>0.37</AngleVelocityDispersion>
+		<AngleVelocityBalance>0.1</AngleVelocityBalance>
+		<MainAngleAccelation>0</MainAngleAccelation>
+		<SubAngleAccelation>0</SubAngleAccelation>
+		<AngleAccelationDispersion>0</AngleAccelationDispersion>
+		<AngleAccelationBalance>-0.12</AngleAccelationBalance>
+		<Time>4</Time>
+		<TimeDispersion>0</TimeDispersion>
+		<TimeBalance>-0.12</TimeBalance>
+		<AirResistance>0</AirResistance>
+		<AirResistanceDispersion>0</AirResistanceDispersion>
+		<AirResistanceBalance>-0.12</AirResistanceBalance>
+		<AnimationSpeed>0</AnimationSpeed>
+		<AnimationSpeedDispersion>0</AnimationSpeedDispersion>
+		<AnimationSpeedBalance>-0.12</AnimationSpeedBalance>
+		<StartAngle>0</StartAngle>
+		<EndAngle>0</EndAngle>
+		<StartAngleDispersion>0</StartAngleDispersion>
+		<StartAngleBalance>-0.12</StartAngleBalance>
+	</CREAM>
+	<CREAM Name='event_garden_light2'>
+		<Name></Name>
+		<Category></Category>
+		<MaxCount>4</MaxCount>
+		<IsLoop>1</IsLoop>
+		<IsLink>1</IsLink>
+		<IsZAlign>1</IsZAlign>
+		<IsSineAlpha>1</IsSineAlpha>
+		<IsStartSizePLPUseOne>1</IsStartSizePLPUseOne>
+		<IsEndSizePLPUseOne>1</IsEndSizePLPUseOne>
+		<TextureKind>0</TextureKind>
+		<TextureName>event2</TextureName>
+		<CreamBlendMode>ADD</CreamBlendMode>
+		<AnimationType>0</AnimationType>
+		<Pattern></Pattern>
+		<PatternArguments>0 0 0 0 </PatternArguments>
+		<EmitterPosition>0 0 0</EmitterPosition>
+		<EmitterRadius>0 0 0</EmitterRadius>
+		<Destination>0 0 0</Destination>
+		<DestinationRadius>0 0 0</DestinationRadius>
+		<Gravity>0 0 0</Gravity>
+		<GravityBallPosition>0 0 0</GravityBallPosition>
+		<MainStartColor>255 255 255</MainStartColor>
+		<SubStartColor>255 255 255</SubStartColor>
+		<MainEndColor>255 255 255</MainEndColor>
+		<SubEndColor>255 255 255</SubEndColor>
+		<MainStartAlpha>0</MainStartAlpha>
+		<SubStartAlpha>0</SubStartAlpha>
+		<MainEndAlpha>45</MainEndAlpha>
+		<SubEndAlpha>45</SubEndAlpha>
+		<EmissionRatePermittedLimitPercent>0</EmissionRatePermittedLimitPercent>
+		<VelocityPermittedLimitPercent>0</VelocityPermittedLimitPercent>
+		<TimePermittedLimitPercent>0</TimePermittedLimitPercent>
+		<AirResistancePermittedLimitPercent>0</AirResistancePermittedLimitPercent>
+		<AnimationSpeedPermittedLimitPercent>0</AnimationSpeedPermittedLimitPercent>
+		<EmitterDispersion>0</EmitterDispersion>
+		<EmitterBalance>-0.12</EmitterBalance>
+		<DestinationDispersion>0</DestinationDispersion>
+		<DestinationBalance>-0.12</DestinationBalance>
+		<DestinationRandomness>0</DestinationRandomness>
+		<StartColorDispersion>0</StartColorDispersion>
+		<StartColorBalance>-0.12</StartColorBalance>
+		<EndColorDispersion>0</EndColorDispersion>
+		<EndColorBalance>-0.12</EndColorBalance>
+		<StartAlphaDispersion>1</StartAlphaDispersion>
+		<StartAlphaBalance>-1</StartAlphaBalance>
+		<EndAlphaDispersion>0</EndAlphaDispersion>
+		<EndAlphaBalance>-1</EndAlphaBalance>
+		<MiddleAlphaTime>0</MiddleAlphaTime>
+		<MiddleAlphaAlpha>0</MiddleAlphaAlpha>
+		<GravityResistance>0</GravityResistance>
+		<GravityDispersion>0</GravityDispersion>
+		<GravityBalance>-0.12</GravityBalance>
+		<GravityBallPower>0</GravityBallPower>
+		<GravityBallResistance>0</GravityBallResistance>
+		<GravityBallDispersion>0</GravityBallDispersion>
+		<GravityBallBalance>-0.12</GravityBallBalance>
+		<EmissionRate>1</EmissionRate>
+		<EmissionDispersion>0</EmissionDispersion>
+		<EmissionBalance>-0.12</EmissionBalance>
+		<StartSize>0</StartSize>
+		<StartSizeX>400</StartSizeX>
+		<StartSizeY>400</StartSizeY>
+		<StartSizeDispersion>0</StartSizeDispersion>
+		<StartSizeBalance>-0.12</StartSizeBalance>
+		<StartSizePermittedLimitPercent>0</StartSizePermittedLimitPercent>
+		<StartSizePermittedLimitPercentX>0</StartSizePermittedLimitPercentX>
+		<StartSizePermittedLimitPercentY>0</StartSizePermittedLimitPercentY>
+		<EndSize>0</EndSize>
+		<EndSizeX>400</EndSizeX>
+		<EndSizeY>400</EndSizeY>
+		<EndSizeDispersion>0</EndSizeDispersion>
+		<EndSizeBalance>-0.12</EndSizeBalance>
+		<EndSizePermittedLimitPercent>0</EndSizePermittedLimitPercent>
+		<EndSizePermittedLimitPercentX>0</EndSizePermittedLimitPercentX>
+		<EndSizePermittedLimitPercentY>0</EndSizePermittedLimitPercentY>
+		<Velocity>0</Velocity>
+		<VelocityDispersion>0</VelocityDispersion>
+		<VelocityBalance>-0.12</VelocityBalance>
+		<MainAngleVelocity>-3</MainAngleVelocity>
+		<SubAngleVelocity>3</SubAngleVelocity>
+		<AngleVelocityDispersion>0.37</AngleVelocityDispersion>
+		<AngleVelocityBalance>0.1</AngleVelocityBalance>
+		<MainAngleAccelation>0</MainAngleAccelation>
+		<SubAngleAccelation>0</SubAngleAccelation>
+		<AngleAccelationDispersion>0</AngleAccelationDispersion>
+		<AngleAccelationBalance>-0.12</AngleAccelationBalance>
+		<Time>4</Time>
+		<TimeDispersion>0</TimeDispersion>
+		<TimeBalance>-0.12</TimeBalance>
+		<AirResistance>0</AirResistance>
+		<AirResistanceDispersion>0</AirResistanceDispersion>
+		<AirResistanceBalance>-0.12</AirResistanceBalance>
+		<AnimationSpeed>0</AnimationSpeed>
+		<AnimationSpeedDispersion>0</AnimationSpeedDispersion>
+		<AnimationSpeedBalance>-0.12</AnimationSpeedBalance>
+		<StartAngle>0</StartAngle>
+		<EndAngle>0</EndAngle>
+		<StartAngleDispersion>0</StartAngleDispersion>
+		<StartAngleBalance>-0.12</StartAngleBalance>
+	</CREAM>
+	<CREAM Name='event_garden_cho'>
+		<Name></Name>
+		<Category></Category>
+		<MaxCount>1</MaxCount>
+		<IsLoop>1</IsLoop>
+		<IsLink>1</IsLink>
+		<IsZAlign>0</IsZAlign>
+		<IsSineAlpha>0</IsSineAlpha>
+		<IsStartSizePLPUseOne>1</IsStartSizePLPUseOne>
+		<IsEndSizePLPUseOne>1</IsEndSizePLPUseOne>
+		<TextureKind>0</TextureKind>
+		<TextureName>bam-light3</TextureName>
+		<CreamBlendMode>ADD</CreamBlendMode>
+		<AnimationType>0</AnimationType>
+		<Pattern></Pattern>
+		<PatternArguments>0 0 0 0 </PatternArguments>
+		<EmitterPosition>0 0 0</EmitterPosition>
+		<EmitterRadius>0 0 0</EmitterRadius>
+		<Destination>0 0 0</Destination>
+		<DestinationRadius>0 0 0</DestinationRadius>
+		<Gravity>0 0 0</Gravity>
+		<GravityBallPosition>0 0 0</GravityBallPosition>
+		<MainStartColor>253 255 166</MainStartColor>
+		<SubStartColor>250 255 142</SubStartColor>
+		<MainEndColor>255 255 255</MainEndColor>
+		<SubEndColor>255 255 255</SubEndColor>
+		<MainStartAlpha>152</MainStartAlpha>
+		<SubStartAlpha>152</SubStartAlpha>
+		<MainEndAlpha>0</MainEndAlpha>
+		<SubEndAlpha>0</SubEndAlpha>
+		<EmissionRatePermittedLimitPercent>0</EmissionRatePermittedLimitPercent>
+		<VelocityPermittedLimitPercent>0</VelocityPermittedLimitPercent>
+		<TimePermittedLimitPercent>0</TimePermittedLimitPercent>
+		<AirResistancePermittedLimitPercent>0</AirResistancePermittedLimitPercent>
+		<AnimationSpeedPermittedLimitPercent>0</AnimationSpeedPermittedLimitPercent>
+		<EmitterDispersion>0</EmitterDispersion>
+		<EmitterBalance>-0.26</EmitterBalance>
+		<DestinationDispersion>0</DestinationDispersion>
+		<DestinationBalance>-0.26</DestinationBalance>
+		<DestinationRandomness>0</DestinationRandomness>
+		<StartColorDispersion>0</StartColorDispersion>
+		<StartColorBalance>-0.26</StartColorBalance>
+		<EndColorDispersion>0</EndColorDispersion>
+		<EndColorBalance>-0.26</EndColorBalance>
+		<StartAlphaDispersion>1</StartAlphaDispersion>
+		<StartAlphaBalance>-1</StartAlphaBalance>
+		<EndAlphaDispersion>1</EndAlphaDispersion>
+		<EndAlphaBalance>-1</EndAlphaBalance>
+		<MiddleAlphaTime>0</MiddleAlphaTime>
+		<MiddleAlphaAlpha>0</MiddleAlphaAlpha>
+		<GravityResistance>0</GravityResistance>
+		<GravityDispersion>0</GravityDispersion>
+		<GravityBalance>-0.26</GravityBalance>
+		<GravityBallPower>0</GravityBallPower>
+		<GravityBallResistance>0</GravityBallResistance>
+		<GravityBallDispersion>0</GravityBallDispersion>
+		<GravityBallBalance>-0.26</GravityBallBalance>
+		<EmissionRate>10</EmissionRate>
+		<EmissionDispersion>0</EmissionDispersion>
+		<EmissionBalance>-0.26</EmissionBalance>
+		<StartSize>0</StartSize>
+		<StartSizeX>100</StartSizeX>
+		<StartSizeY>100</StartSizeY>
+		<StartSizeDispersion>0</StartSizeDispersion>
+		<StartSizeBalance>-0.26</StartSizeBalance>
+		<StartSizePermittedLimitPercent>0</StartSizePermittedLimitPercent>
+		<StartSizePermittedLimitPercentX>0</StartSizePermittedLimitPercentX>
+		<StartSizePermittedLimitPercentY>0</StartSizePermittedLimitPercentY>
+		<EndSize>0</EndSize>
+		<EndSizeX>100</EndSizeX>
+		<EndSizeY>100</EndSizeY>
+		<EndSizeDispersion>0</EndSizeDispersion>
+		<EndSizeBalance>-0.26</EndSizeBalance>
+		<EndSizePermittedLimitPercent>0</EndSizePermittedLimitPercent>
+		<EndSizePermittedLimitPercentX>0</EndSizePermittedLimitPercentX>
+		<EndSizePermittedLimitPercentY>0</EndSizePermittedLimitPercentY>
+		<Velocity>50</Velocity>
+		<VelocityDispersion>0</VelocityDispersion>
+		<VelocityBalance>-0.26</VelocityBalance>
+		<MainAngleVelocity>0</MainAngleVelocity>
+		<SubAngleVelocity>0</SubAngleVelocity>
+		<AngleVelocityDispersion>0</AngleVelocityDispersion>
+		<AngleVelocityBalance>-0.26</AngleVelocityBalance>
+		<MainAngleAccelation>0</MainAngleAccelation>
+		<SubAngleAccelation>0</SubAngleAccelation>
+		<AngleAccelationDispersion>0</AngleAccelationDispersion>
+		<AngleAccelationBalance>-0.26</AngleAccelationBalance>
+		<Time>20000</Time>
+		<TimeDispersion>0</TimeDispersion>
+		<TimeBalance>-0.26</TimeBalance>
+		<AirResistance>0</AirResistance>
+		<AirResistanceDispersion>0</AirResistanceDispersion>
+		<AirResistanceBalance>-0.26</AirResistanceBalance>
+		<AnimationSpeed>0</AnimationSpeed>
+		<AnimationSpeedDispersion>0</AnimationSpeedDispersion>
+		<AnimationSpeedBalance>-0.26</AnimationSpeedBalance>
+		<StartAngle>0</StartAngle>
+		<EndAngle>0</EndAngle>
+		<StartAngleDispersion>0</StartAngleDispersion>
+		<StartAngleBalance>-0.04</StartAngleBalance>
+	</CREAM>
+</CAKEWAPPER>
